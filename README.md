@@ -1,7 +1,5 @@
 # Cypress, from Zero to the Cloud
 
-Sample project to demonstrate a `cy.dataTest` Cypress custom command.
-
 ## Pre-requirements
 
 It is required to have Node.js and npm installed to run this project.
